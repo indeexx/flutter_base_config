@@ -1,0 +1,16 @@
+{
+    "title": "你好，indeex",
+    "welcom": "welcom {name}",
+    "hi": "{lala}{lala}啦啦,{lalala}{lalala}啦啦啦",
+    "msgTips": "{howMany, plural, zero{You have no message} on{You have 1 message} other{You have {howMany} messages}}",
+    "companyInfoTitle": "公司介绍",
+    "appName": "indeex`s demo",
+    "login": "登陆",
+    "tabHome": "首页",
+    "settings": "设置",
+    "settingLanguage": "语言",
+    "autoBySystem": "跟随系统",
+    "themeMode": "主题模式",
+    "darkMode": "暗黑模式",
+    "lightMode": "明亮模式"
+}
